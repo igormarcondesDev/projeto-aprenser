@@ -10,5 +10,3 @@ Projeto de estudo para praticar HTML, CSS e JavaScript com layout responsivo.
 ## 🌐 Demo
 https://igormarcondesdev.github.io/projeto-aprenser/
 
-## 📸 Preview
-<!-- você pode colocar uma imagem depois -->
